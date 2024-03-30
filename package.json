@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "This is Namaste React by Akshay Saini",
   "scripts": {
+    "start": "npx parcel index.html",
+    "build": "npm parcel build index.html",
     "test": "jest"
   },
   "repository": {
